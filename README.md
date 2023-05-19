@@ -1,0 +1,14 @@
+Id                                        Versions ProjectName  
+--                                        -------- -----------  
+Selenium.WebDriver                        {4.8.1}  CleverBitTask
+Microsoft.NET.Test.Sdk                    {17.1.0} CleverBitTask
+WebDriverManager                          {2.16.2} CleverBitTask
+NUnit                                     {3.13.3} CleverBitTask
+Microsoft.Extensions.Configuration.Binder {7.0.3}  CleverBitTask
+DotNetSeleniumExtras.WaitHelpers          {3.11.0} CleverBitTask
+Selenium.Support                          {4.8.1}  CleverBitTask
+Microsoft.Extensions.Configuration.Json   {7.0.0}  CleverBitTask
+NUnit3TestAdapter                         {4.2.1}  CleverBitTask
+Microsoft.Extensions.Configuration        {7.0.0}  CleverBitTask
+NUnit.Analyzers                           {3.3.0}  CleverBitTask
+coverlet.collector                        {3.1.2}  CleverBitTask

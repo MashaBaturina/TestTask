@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://www.xe.com/currencyconverter",
+  "timeoutSec": 10 
+}
